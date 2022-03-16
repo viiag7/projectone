@@ -1,14 +1,12 @@
-using system;
+﻿using System;
 
 namespace meuPrimeiroPrograma
 {
-    
     class Program
     {
-        
         static void Main(string[] args)
         {
-            Console.WriteLine("Helo World!")
+            Console.WriteLine("Hello World!");
         }
     }
 }
