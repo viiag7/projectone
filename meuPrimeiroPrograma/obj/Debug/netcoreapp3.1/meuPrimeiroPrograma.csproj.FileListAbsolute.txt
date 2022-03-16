@@ -1,0 +1,13 @@
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeiroPrograma.exe
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeiroPrograma.deps.json
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeiroPrograma.runtimeconfig.json
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeiroPrograma.dll
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\bin\Debug\netcoreapp3.1\meuPrimeiroPrograma.pdb
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeiroPrograma.dll
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeiroPrograma.pdb
+C:\Users\vinic\Documents\git\projectone\meuPrimeiroPrograma\obj\Debug\netcoreapp3.1\meuPrimeiroPrograma.genruntimeconfig.cache
